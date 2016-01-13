@@ -6,7 +6,12 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>iTextKhmer</name>
-  <url>http://maven.apache.org</url>
+  <url>http://seuksa.github.io/iTextKhmer</url>
+  <scm>
+	<connection>scm:git:git@github.com:Seuksa/iTextKhmer.git</connection>
+	<url>scm:git:git@github.com:Seuksa/iTextKhmer.git</url>
+	<developerConnection>scm:git:git@github.com:Seuksa/iTextKhmer.git</developerConnection>
+  </scm>
   <developers>
 	<developer>
 		<id>metrey</id>
@@ -28,4 +33,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-release-plugin</artifactId>
+        <version>2.5.3</version>
+      </plugin>
+    </plugins>
+  </build>
 </project>
