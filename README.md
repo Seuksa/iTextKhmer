@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Seuksa/iTextKhmer.svg)](https://travis-ci.org/Seuksa/iTextKhmer)
+
 # iTextKhmer
 The library to extend the support for Khmer language rendering for PDF using iText.
 
