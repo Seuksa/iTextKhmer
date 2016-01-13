@@ -41,5 +41,5 @@ Please go to following links for sample project using this library:
 - Pengleng Huot/Nokor-Group (for rendering)
 
 # License
-- iTextKhmer: Apache 2.0
+- iTextKhmer: (TO CHECK)
 - itextpdf (see itextpdf license from official website)
