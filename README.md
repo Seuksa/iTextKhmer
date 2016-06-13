@@ -38,7 +38,7 @@ Please go to following links for sample project using this library:
 # Authors
 
 - Pongsametrey S. <metrey@osify.com> : Add support with itext
-- Pengleng Huot/Nokor-Group (for rendering)
+- Pengleng Huot (for rendering, followed similar the Khmum Browser Rendering)
 
 # License
 - iTextKhmer: (TO CHECK)
