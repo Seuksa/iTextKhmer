@@ -33,7 +33,7 @@ With maven:
 # Sample Projects
 Please go to following links for sample project using this library:
 - https://github.com/seuksa/iTextKhmerSample
-  Explain article (http://ask.osify.com/qa/613)
+- Explain article (http://ask.osify.com/qa/613)
 
 # Authors
 
