@@ -41,5 +41,5 @@ Please go to following links for sample project using this library:
 - Pengleng Huot (for rendering, followed similar the Khmum Browser Rendering)
 
 # License
-- iTextKhmer: (TO CHECK)
+- iTextKhmer: Apache 2 (Refer to our code)
 - itextpdf (see itextpdf license from official website)
